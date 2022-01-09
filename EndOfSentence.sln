@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndOfSentence", "EndOfSentence\EndOfSentence.csproj", "{FEC2EDD2-CB06-4214-9E74-E06DC0C4B684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC2EDD2-CB06-4214-9E74-E06DC0C4B684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC2EDD2-CB06-4214-9E74-E06DC0C4B684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC2EDD2-CB06-4214-9E74-E06DC0C4B684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC2EDD2-CB06-4214-9E74-E06DC0C4B684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
